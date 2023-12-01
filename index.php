@@ -123,10 +123,7 @@
             <div class='row'>
                 <div class='col-lg-4 col-md-4 col-12'>
                   <div class="card" > 
-                    <a href="designs.php">
-                    <img src="images/BC 005.png" class="card-img-top" alt="..." >
-                    </a>
-                    
+                    <img src="images/BC 005.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -137,7 +134,7 @@
                         <li class="list-group-item">A third item</li>
                     </ul>
                     <div class="card-body">
-                        <a href="#" class="card-link">Card link</a>
+                        <a href="designs.php" class="card-link">Card link</a>
                         <a href="#" class="card-link">Another link</a>
                     </div>
                     </div>
@@ -284,11 +281,11 @@
         </div>
 
         <div class='col-lg-4 col-md-4 col-12'>
-          <img src="images/9.png" class="img-fluid pd-3 mt-4">
+          <img src="images/8.png" class="img-fluid pd-3 mt-4">
         </div>
 
         <div class='col-lg-4 col-md-4 col-12'>
-          <img src="images/8.png" class="img-fluid pd-3 mt-4">
+          <img src="images/9.png" class="img-fluid pd-3 mt-4">
         </div>
 
       </div>
@@ -298,7 +295,7 @@
 
 <section class="my-5 ">
   <div class='py-5'>
-    <h2 class="text-center">Contact Us</h2>
+    <h2 class="text-center">Comtact Us</h2>
   </div>
   <div class="w-50 m-auto ">
     <form action='userinfo.php' method='post'>
