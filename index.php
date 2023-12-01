@@ -99,7 +99,7 @@
                     <img src="images/Untitled design (1).png" class='img-fluid aboutimg' alt="">
                 </div>
                 <div class='col-lg-6 col-md-6 col-12'>
-                    <h2 class='display-4'>Welcome to My Portfolio</h2>
+                    <h2 class='display-4'>Welcome to Our Portfolio</h2>
                     <p class='py-5'>This portfolio is a collection of five years worth of design work including branding, literature design, packaging design, design for the web, illustration, and exhibition graphics.The ultimate in fine design, Brimming with passion and bursting with vision this provides creative services to both public and private clients throughout Bangladesh and online platforms.I hope you enjoy browsing the portfolio, and that I become an invaluable resource to your business and clients. Remember, you are only a phone call and contact online</p>
                     <a href="about.php" class='btn btn-success '> check More </a>
                 </div>
@@ -128,14 +128,14 @@
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <!-- <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
                         <li class="list-group-item">A second item</li>
                         <li class="list-group-item">A third item</li>
-                    </ul>
+                    </ul> -->
                     <div class="card-body">
-                        <a href="designs.php" class="card-link">Card link</a>
-                        <!-- <a href="#" class="card-link">Another link</a> -->
+                        <a href="designs.php" class="card-link text-center">Card link</a>
+                        <!-- <a href="#" class="card-link text-center">Another link</a> -->
                     </div>
                     </div>
                 </div>
@@ -146,14 +146,14 @@
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <!-- <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
                         <li class="list-group-item">A second item</li>
                         <li class="list-group-item">A third item</li>
-                    </ul>
+                    </ul> -->
                     <div class="card-body">
-                        <a href="#" class="card-link">Card link</a>
-                        <!-- <a href="#" class="card-link">Another link</a> -->
+                        <a href="#" class="card-link text-center">Card link</a>
+                        <!-- <a href="#" class="card-link text-center">Another link</a> -->
                     </div>
                     </div>
                 </div>
@@ -164,14 +164,14 @@
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <!-- <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
                         <li class="list-group-item">A second item</li>
                         <li class="list-group-item">A third item</li>
-                    </ul>
+                    </ul> -->
                     <div class="card-body">
-                        <a href="#" class="card-link">Card link</a>
-                        <!-- <a href="#" class="card-link">Another link</a> -->
+                        <a href="#" class="card-link text-center">Card link</a>
+                        <!-- <a href="#" class="card-link text-center">Another link</a> -->
                     </div>
                     </div>
                 </div>
@@ -189,14 +189,14 @@
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <!-- <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
                         <li class="list-group-item">A second item</li>
                         <li class="list-group-item">A third item</li>
-                    </ul>
+                    </ul> -->
                     <div class="card-body">
-                        <a href="#" class="card-link">Card link</a>
-                        <!-- <a href="#" class="card-link">Another link</a> -->
+                        <a href="#" class="card-link text-center">Card link</a>
+                        <!-- <a href="#" class="card-link text-center">Another link</a> -->
                     </div>
                     </div>
                 </div>
@@ -208,14 +208,14 @@
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <!-- <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
                         <li class="list-group-item">A second item</li>
                         <li class="list-group-item">A third item</li>
-                    </ul>
+                    </ul> -->
                     <div class="card-body">
-                        <a href="#" class="card-link">Card link</a>
-                        <!-- <a href="#" class="card-link">Another link</a> -->
+                        <a href="#" class="card-link text-center">Card link</a>
+                        <!-- <a href="#" class="card-link text-center">Another link</a> -->
                     </div>
                     </div>
                 </div>
@@ -227,14 +227,14 @@
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <!-- <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
                         <li class="list-group-item">A second item</li>
                         <li class="list-group-item">A third item</li>
-                    </ul>
+                    </ul> -->
                     <div class="card-body">
-                        <a href="#" class="card-link">Card link</a>
-                        <!-- <a href="#" class="card-link">Another link</a> -->
+                        <a href="#" class="card-link text-center">Card link</a>
+                        <!-- <a href="#" class="card-link text-center">Another link</a> -->
                     </div>
                     </div>
                 </div>
