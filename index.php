@@ -295,7 +295,7 @@
 
 <section class="my-5 ">
   <div class='py-5'>
-    <h2 class="text-center">Comtact Us</h2>
+    <h2 class="text-center">Contact Us</h2>
   </div>
   <div class="w-50 m-auto ">
     <form action='userinfo.php' method='post'>
