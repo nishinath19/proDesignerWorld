@@ -1,0 +1,13 @@
+.image_col{
+    margin-left: 25px;
+    border-radius: 50%;
+    border: 2px solid purple;
+    background-color: aliceblue;
+}
+.board{
+    text-align: center;
+    text-transform:uppercase;
+    /* text-decoration: underline; */
+    color: crimson;
+    margin-bottom: 30px;
+}
