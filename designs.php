@@ -51,7 +51,7 @@
 
 <section class="my-5 ">
         <div class='py-5'>
-            <h2 class="text-center">Our Servicess</h2>
+            <h1 class="text-center"> Minimalist Business Card</h1>
         </div>
         <div class='container-fluid'>
 
@@ -62,17 +62,21 @@
                   <div class="card" > 
                     <img src="images/BC/ (1).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title">Business Card</h5>
+                        <p class="card-text">Size:’3.5×2’inch with0.25 Bleed <br>
+CMYK Color Mode 300dpi <br>
+Fully Editable <br>
+PSD File <br>
+Free Fonts</p>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <!-- <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
                         <li class="list-group-item">A second item</li>
                         <li class="list-group-item">A third item</li>
-                    </ul>
+                    </ul> -->
                     <div class="card-body">
-                        <a href="#" class="card-link">Card link</a>
-                        <a href="#" class="card-link">Another link</a>
+                        <!-- <a href="#" class="card-link">Card link</a>
+                        <a href="#" class="card-link">Another link</a> -->
                     </div>
                     </div>
                 </div>
@@ -80,17 +84,21 @@
                   <div class="card " >
                     <img src="images/BC/ (2).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title">Corporate Business Card</h5>
+                        <p class="card-text">Size:’3.5×2’inch with0.25 Bleed <br>
+CMYK Color Mode 300dpi <br>
+Fully Editable <br>
+PSD File <br>
+Free Fonts</p>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <!-- <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
                         <li class="list-group-item">A second item</li>
                         <li class="list-group-item">A third item</li>
-                    </ul>
+                    </ul> -->
                     <div class="card-body">
-                        <a href="#" class="card-link">Card link</a>
-                        <a href="#" class="card-link">Another link</a>
+                        <!-- <a href="#" class="card-link">Card link</a>
+                        <a href="#" class="card-link">Another link</a> -->
                     </div>
                     </div>
                 </div>
@@ -98,17 +106,21 @@
                   <div class="card" >
                     <img src="images/BC/ (3).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title"> Black Gothic Business Card</h5>
+                        <p class="card-text">Size:’3.5×2’inch with0.25 Bleed <br>
+CMYK Color Mode 300dpi <br>
+Fully Editable <br>
+PSD File <br>
+Free Fonts</p>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <!-- <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
                         <li class="list-group-item">A second item</li>
                         <li class="list-group-item">A third item</li>
-                    </ul>
+                    </ul> -->
                     <div class="card-body">
-                        <a href="#" class="card-link">Card link</a>
-                        <a href="#" class="card-link">Another link</a>
+                        <!-- <a href="#" class="card-link">Card link</a>
+                        <a href="#" class="card-link">Another link</a> -->
                     </div>
                     </div>
                 </div>
@@ -123,17 +135,21 @@
                   <div class="card" >
                     <img src="images/BC/ (4).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title"> Creative Business Card</h5>
+                        <p class="card-text">Size:’3.5×2’inch with0.25 Bleed <br>
+CMYK Color Mode 300dpi <br>
+Fully Editable <br>
+PSD File <br>
+Free Fonts</p>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <!-- <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
                         <li class="list-group-item">A second item</li>
                         <li class="list-group-item">A third item</li>
-                    </ul>
+                    </ul> -->
                     <div class="card-body">
-                        <a href="#" class="card-link">Card link</a>
-                        <a href="#" class="card-link">Another link</a>
+                        <!-- <a href="#" class="card-link">Card link</a>
+                        <a href="#" class="card-link">Another link</a> -->
                     </div>
                     </div>
                 </div>
@@ -142,17 +158,21 @@
                   <div class="card " >
                     <img src="images/BC/ (5).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title"> Simple Business Card</h5>
+                        <p class="card-text">Size:’3.5×2’inch with0.25 Bleed <br>
+CMYK Color Mode 300dpi <br>
+Fully Editable <br>
+PSD File <br>
+Free Fonts</p>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <!-- <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
                         <li class="list-group-item">A second item</li>
                         <li class="list-group-item">A third item</li>
-                    </ul>
+                    </ul> -->
                     <div class="card-body">
-                        <a href="#" class="card-link">Card link</a>
-                        <a href="#" class="card-link">Another link</a>
+                        <!-- <a href="#" class="card-link">Card link</a>
+                        <a href="#" class="card-link">Another link</a> -->
                     </div>
                     </div>
                 </div>
@@ -161,17 +181,21 @@
                   <div class="card" >
                     <img src="images/BC/ (6).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title">Photographer Business Card</h5>
+                        <p class="card-text">Size:’3.5×2’inch with0.25 Bleed <br>
+CMYK Color Mode 300dpi <br>
+Fully Editable <br>
+PSD File <br>
+Free Fonts</p>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <!-- <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
                         <li class="list-group-item">A second item</li>
                         <li class="list-group-item">A third item</li>
-                    </ul>
+                    </ul> -->
                     <div class="card-body">
-                        <a href="#" class="card-link">Card link</a>
-                        <a href="#" class="card-link">Another link</a>
+                        <!-- <a href="#" class="card-link">Card link</a>
+                        <a href="#" class="card-link">Another link</a> -->
                     </div>
                     </div>
                 </div>
