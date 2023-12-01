@@ -51,7 +51,7 @@
 
 <section class="my-5 ">
         <div class='py-5'>
-            <h1 class="text-center"> Minimalist Business Card</h1>
+            <h1 class="text-center">Business Card</h1>
         </div>
         <div class='container-fluid'>
 
@@ -62,7 +62,7 @@
                   <div class="card" > 
                     <img src="images/BC/ (1).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Business Card</h5>
+                        <h5 class="card-title"> Minimalist Business Card</h5>
                         <p class="card-text">Size:’3.5×2’inch with0.25 Bleed <br>
 CMYK Color Mode 300dpi <br>
 Fully Editable <br>
