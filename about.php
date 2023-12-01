@@ -51,51 +51,30 @@
 </nav>
 <div>
     <h2>Our jouny</h2>
-    <div class="board ">
-        <h2>board Of Directors</h2>
-    </div>
-    <div class="row col-12">
-        <div class="col-4 col-xs-12 col-sm-4 h-300">
-                        <div class="card">
-                            <div class="card-header">
-                                <img src="images/pic/Nishinath 5   5(1).jpg" alt="" class="image_col">
-                            </div>
-                            <div class="card-body">
-                                <h1>Nishhinath Chondro Gain</h1>
-                                <a href="">Read More</a>
-                            </div>
-                        </div>
-                    </div>
+    
+    <section class="my-5 ">
+        <div class='py-5 board '>
+            <h2 class="text-center">board Of Directors</h2>
         </div>
-        <div class="col-4 col-xs-12 col-sm-4 h-300">
-                        <div class="card">
-                            <div class="card-header">
-                                <img src="images/pic/Nishinath 5   5(1).jpg" alt="" class="image_col">
-                            </div>
-                            <div class="card-body">
-                                <h1>Nishhinath Chondro Gain</h1>
-                                <a href="">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-        </div>
-        <div class="col-4 col-xs-12 col-sm-4 h-300">
-                        <div class="card">
-                            <div class="card-header">
-                                <img src="images/pic/Nishinath 5   5(1).jpg" alt="" class="image_col">
-                            </div>
-                            <div class="card-body">
-                                <h1>Nishhinath Chondro Gain</h1>
-                                <a href="">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-        </div>
-        
-    </div>
 
-</div>
-
+        <div class='container-fluid'>
+            <div class='row'>
+                <div class='col-lg-4 col-md-4 col-12'>
+                    <div class="card " > 
+                        <img src="images/pic/Nishinath 5   5(1).jpg" class="card-img-top image_col w-55 h-55 " alt="...">
+                        <div class="card-body">
+                            <h2 class="card-title text-center ">Nishinath Chondro Gain</h2>
+                            <p class="card-text text-center">CMA, MBA, BBA, DICT, DMF</p>
+                        </div>
+                        
+                        <div class="card-body text-center  ">
+                            <a href="index.php" class="card-link btn btn-danger  ">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>       
+    </section>
 
 
 
@@ -103,3 +82,16 @@
 
 
 </body>
+
+<div class="col-4 col-xs-12 col-sm-4 h-300">
+                                    <div class="card">
+                                        <div class="card-header">
+                                            <img src="images/pic/Nishinath 5   5(1).jpg" alt="" class="image_col">
+                                        </div>
+                                        <div class="card-body">
+                                            <h1>Nishhinath Chondro Gain</h1>
+                                            <a href="">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                    </div>
