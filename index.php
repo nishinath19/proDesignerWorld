@@ -281,11 +281,11 @@
         </div>
 
         <div class='col-lg-4 col-md-4 col-12'>
-          <img src="images/8.png" class="img-fluid pd-3 mt-4">
+          <img src="images/9.png" class="img-fluid pd-3 mt-4">
         </div>
 
         <div class='col-lg-4 col-md-4 col-12'>
-          <img src="images/9.png" class="img-fluid pd-3 mt-4">
+          <img src="images/8.png" class="img-fluid pd-3 mt-4">
         </div>
 
       </div>
