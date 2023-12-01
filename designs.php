@@ -60,7 +60,7 @@
             <div class='row'>
                 <div class='col-lg-4 col-md-4 col-12'>
                   <div class="card" > 
-                    <img src="images/BC 005.png" class="card-img-top" alt="...">
+                    <img src="images/BC/ (1).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -78,7 +78,7 @@
                 </div>
                 <div class='col-lg-4 col-md-4 col-12'>
                   <div class="card " >
-                    <img src="images/flayer.png" class="card-img-top" alt="...">
+                    <img src="images/BC/ (2).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -96,7 +96,7 @@
                 </div>
                 <div class='col-lg-4 col-md-4 col-12'>
                   <div class="card" >
-                    <img src="images/cci.png" class="card-img-top" alt="...">
+                    <img src="images/BC/ (3).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -121,7 +121,7 @@
             <div class='row'>
                 <div class='col-lg-4 col-md-4 col-12'>
                   <div class="card" >
-                    <img src="images/Ei.png" class="card-img-top" alt="...">
+                    <img src="images/BC/ (4).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -140,7 +140,7 @@
                 
                 <div class='col-lg-4 col-md-4 col-12'>
                   <div class="card " >
-                    <img src="images/Ci.png" class="card-img-top" alt="...">
+                    <img src="images/BC/ (5).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -159,7 +159,7 @@
 
                 <div class='col-lg-4 col-md-4 col-12'>
                   <div class="card" >
-                    <img src="images/logo 2.png" class="card-img-top" alt="...">
+                    <img src="images/BC/ (6).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
