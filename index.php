@@ -29,13 +29,13 @@
           <a class="nav-link active" aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Designs</a>
+          <a class="nav-link" href="designs.php">Designs</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="about.php">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">contacts</a>
+          <a class="nav-link" href="Contacts.php">contacts</a>
         </li>
         
       </ul>
@@ -334,6 +334,38 @@
 </section>
 
 <footer >
+  
+<section>
+  
+  <div class="p-3 bg-dark bg-opacity-25 text-white text-centers footer">
+    <div class='row'>
+      <div class='col-lg-4 col-md-4 col-12'>
+        <div class='footer_ing'>
+          <img src="images/logo 2.png" alt=""  >
+        </div>
+        
+
+      </div>
+
+      <div class='col-lg-4 col-md-4 col-12 m-5 '>
+        <h3><a href="index.php">Home</a></h3>
+        <h3><a href="designs.php">Design</a></h3>
+        <h3><a href="about.php">About</a></h3>
+        <h3><a href="Contacts.php">Contacts</a></h3>
+        
+      </div>
+
+      <div class='col-lg-4 col-md-4 col-12 m-5'>
+        <a href="index.php">Facebook</a>
+        <a href="index.php">Facebook</a>
+        <a href="index.php">Facebook</a>
+        <a href="index.php">Facebook</a>
+        
+      </div>
+    </div>
+  </div>
+</section>
+  
   <h6 class="p-3 bg-dark text-white text-centers footer">@prodesignerworldProduction</h6>
 </footer>
 
