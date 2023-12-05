@@ -14,12 +14,15 @@
 <body id="l_body" >
     <div id="form">
         <h1>Login Form</h1>
-        <form name="form" action="login.php" onsubmit="return isvalid()" method="POST">
+        <form name="form" action="index.php" onsubmit="return isvalid()" method="POST">
             <label for="">Username:</label>
             <input type="text" class="user" name="user"></input></br></br>
             <label for="">Password:</label>
             <input type="password" class="pass" name="pass"></input></br></br>
-            <input type="submit" class="btn" value="Login" name="submit">
+            <div>
+                <label for=""></label>
+                <input type="submit" class="btn" value="Login" name="submit">
+            </div>
         </form>
     </div>
     <script>
