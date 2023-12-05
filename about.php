@@ -49,57 +49,82 @@
         </div>
     </div>
 </nav>
-<div>
-    <h2>Our jouny</h2>
-    <div class="board ">
-        <h2>board Of Directors</h2>
-    </div>
-    <div class="row col-12">
-        <div class="col-4 col-xs-12 col-sm-4 h-300">
-                        <div class="card">
-                            <div class="card-header">
-                                <img src="images/pic/Nishinath 5   5(1).jpg" alt="" class="image_col">
-                            </div>
-                            <div class="card-body">
-                                <h1>Nishhinath Chondro Gain</h1>
-                                <a href="">Read More</a>
-                            </div>
+<section class="my-5 ">
+        <div class='py-5 '>
+            <div class='row'>
+                <div class='col-lg-3 col-md-3 col-0'>
+
+                </div>
+                <div class='col-lg-6 col-md-6 col-12'>
+                    <h2 class="text-center">Our jouny</h2>
+                    <p class='text'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae veritatis delectus dolore quos accusamus impedit, excepturi ab ipsa a voluptas, accusantium odit fuga incidunt. Tempora, dolore facere. Qui corporis quas sed doloribus esse laborum, delectus quidem! Voluptatibus, enim rem sint asperiores odio, amet magnam quasi quibusdam commodi eveniet eius doloribus nobis sunt molestias eaque! Eius, animi dolore sequi exercitationem alias quaerat maxime nemo culpa molestias beatae totam amet itaque at unde? Mollitia consequatur alias enim earum tempora, nesciunt corrupti ab, atque amet rem, culpa tenetur natus. Eius sapiente itaque dignissimos ratione ut cupiditate facilis necessitatibus. <br> <br>
+                    Distinctio iste ipsam obcaecati omnis repudiandae eos illo eveniet sint temporibus perferendis? Totam odit aperiam harum possimus tenetur adipisci ad minus saepe explicabo praesentium hic recusandae officiis officia accusamus nostrum doloremque veniam fuga deserunt necessitatibus ea iure, omnis tempora repudiandae. Officia animi distinctio id officiis illum rerum corporis provident minus quasi unde, vero repellat reiciendis mollitia quo ratione aperiam! Illum harum rerum quos amet minus autem iure officia similique quibusdam in illo laborum facere veniam impedit, sint sunt, sequi laudantium enim ipsum non perspiciatis recusandae tempore! Tempore, quae et? Est aut maiores beatae unde quae illum harum, tempore, vel quos deleniti impedit ipsa id, dignissimos quaerat placeat omnis consectetur explicabo temporibus adipisci. Molestias ab esse quis quisquam exercitationem atque quos debitis a error tempora mollitia distinctio quas sit magnam provident cumque, soluta rerum dignissimos recusandae quae minima nihil nulla pariatur odit? Vel, cum provident. <br> <br>
+                    Fugiat, repellendus nulla dicta optio voluptates nesciunt vitae adipisci corporis voluptate eligendi doloremque quam laborum ipsa totam assumenda earum mollitia et eaque reprehenderit voluptatum qui in debitis facere nihil? Quia dignissimos numquam porro repellat officia minus deleniti atque eveniet dolor laborum facere aperiam ipsa voluptatibus tenetur tempora provident, mollitia quasi velit. Debitis quos eum omnis illo aliquid aperiam blanditiis, praesentium eos quis officia fuga perferendis consequatur pariatur reiciendis dolor reprehenderit. Fugiat, rerum animi eaque ipsa ab assumenda. 
+                    </p>
+                </div>
+                <div class='col-lg-3 col-md-3 col-0'>
+
+                </div>
+            </div>
+            
+        </div>
+    
+    <section class="my-5 ">
+        <div class='py-5 board '>
+            <h2 class="text-center">board Of Directors</h2>
+        </div>
+
+        <div class='container-fluid'>
+            <div class='row'>
+                <div class='col-lg-4 col-md-4 col-12'>
+                    <div class="card " > 
+                        <img src="images/pic/Nishinath 5   5(1).jpg" class=" image_col w-auto p-2 " alt="...">
+                        <div class="card-body">
+                            <h2 class="card-title text-center ">Nishinath Chondro Gain</h2>
+                            <p class="card-text text-center">CMA, MBA, BBA, DICT, DMF</p>
+                            <p class="card-text text-center">Graphic Designer</p>
+                        </div>
+                        
+                        <div class="card-body text-center  ">
+                            <a href="index.php" class="card-link btn btn-danger  ">Read More</a>
                         </div>
                     </div>
-        </div>
-        <div class="col-4 col-xs-12 col-sm-4 h-300">
-                        <div class="card">
-                            <div class="card-header">
-                                <img src="images/pic/Nishinath 5   5(1).jpg" alt="" class="image_col">
-                            </div>
-                            <div class="card-body">
-                                <h1>Nishhinath Chondro Gain</h1>
-                                <a href="">Read More</a>
-                            </div>
+                </div>
+
+                <div class='col-lg-4 col-md-4 col-12'>
+                    <div class="card " > 
+                        <img src="images/pic/Nishinath 5   5(1).jpg" class=" image_col w-auto p-2 " alt="...">
+                        <div class="card-body">
+                            <h2 class="card-title text-center ">Modarak Hossain</h2>
+                            <p class="card-text text-center">BA, DICT</p>
+                            <p class="card-text text-center">Web designer</p>
+                        </div>
+                        
+                        <div class="card-body text-center  ">
+                            <a href="index.php" class="card-link btn btn-danger  ">Read More</a>
                         </div>
                     </div>
-        </div>
-        <div class="col-4 col-xs-12 col-sm-4 h-300">
-                        <div class="card">
-                            <div class="card-header">
-                                <img src="images/pic/Nishinath 5   5(1).jpg" alt="" class="image_col">
-                            </div>
-                            <div class="card-body">
-                                <h1>Nishhinath Chondro Gain</h1>
-                                <a href="">Read More</a>
-                            </div>
+                </div>
+
+                <div class='col-lg-4 col-md-4 col-12'>
+                    <div class="card " > 
+                        <img src="images/pic/atiq image.jpeg" class=" image_col w-auto p-2 " alt="...">
+                        <div class="card-body">
+                            <h2 class="card-title text-center ">Atiqur Rahman</h2>
+                            <p class="card-text text-center">MA, BA, DICT, HRM</p>
+                            <p class="card-text text-center">Marketer</p>
+                        </div>
+                        
+                        <div class="card-body text-center  ">
+                            <a href="index.php" class="card-link btn btn-danger  ">Read More</a>
                         </div>
                     </div>
-        </div>
-        
-    </div>
+                </div>
+            </div>
+        </div>       
+    </section>
 
-</div>
-
-
-
-
-
-
-
+<footer >
+  <h6 class="p-3 bg-dark text-white text-centers footer">@prodesignerworldProduction</h6>
+</footer>
 </body>

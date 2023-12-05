@@ -14,6 +14,26 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <style>
+        .wrapper{
+            width: 600px;
+            margin: 0 auto;
+        }
+        table tr td:last-child{
+            width: 120px;
+        }
+    </style>
+    <script>
+        $(document).ready(function(){
+            $('[data-toggle="tooltip"]').tooltip();   
+        });
+    </script>
 </head>
 <body>
     
@@ -29,13 +49,13 @@
           <a class="nav-link active" aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Designs</a>
+          <a class="nav-link" href="designs.php">Designs</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="about.php">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">contacts</a>
+          <a class="nav-link" href="Contacts.php">contacts</a>
         </li>
         
       </ul>
@@ -177,7 +197,7 @@
                 </div>
             </div>
 
-</br>
+
 
 
 
@@ -297,43 +317,68 @@
   <div class='py-5'>
     <h2 class="text-center">Contact Us</h2>
   </div>
-  <div class="w-50 m-auto ">
-    <form action='userinfo.php' method='post'>
-      <div class='form-group'>
-        <ladel> Username </ladel>
-        <input type="text" name="user" class='form-control' autocomplete="off">
-
-      </div>
-
-      <div class='form-group'>
-        <ladel> E-mail </ladel>
-        <input type="text" name="email" class='form-control' autocomplete="off">
-
-      </div>
-
-      <div class='form-group'>
-        <ladel> Mobile </ladel>
-        <input type="text" name="mobile" class='form-control' autocomplete="off">
-
-      </div>
-
-      <div class='form-group'>
-        <ladel> Comments </ladel>
-        <textarea class="form-control" name="comments" autocomplete="off">
-
-        </textarea>
-
-      </div>
-
-      <button type="submit" class="btn btn-success"> Submit </button>
-
-    </form>
-  </div>
-
+  <div class="wrapper">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="mt-5 mb-3 clearfix">
+                        <h2 class="pull-left">Details</h2>
+                        <a href="create.php" class="btn btn-success pull-right"><i class="fa fa-plus"></i> Add New Contact</a>
+                    </div>
+                    <?php
+                    // Include config file
+                    require_once "config.php";
+                    
+                    // Attempt select query execution
+                    $sql = "SELECT * FROM employees";
+                    if($result = mysqli_query($link, $sql)){
+                        if(mysqli_num_rows($result) > 0){
+                            echo '<table class="table table-bordered table-striped">';
+                                echo "<thead>";
+                                    echo "<tr>";
+                                        echo "<th>SN</th>";
+                                        echo "<th>Name</th>";
+                                        echo "<th>E-mail</th>";
+                                        echo "<th>Phone Number</th>";
+                                        echo "<th>Action</th>";
+                                    echo "</tr>";
+                                echo "</thead>";
+                                echo "<tbody>";
+                                while($row = mysqli_fetch_array($result)){
+                                    echo "<tr>";
+                                        echo "<td>" . $row['id'] . "</td>";
+                                        echo "<td>" . $row['name'] . "</td>";
+                                        echo "<td>" . $row['address'] . "</td>";
+                                        echo "<td>" . $row['salary'] . "</td>";
+                                        echo "<td>";
+                                            echo '<a href="read.php?id='. $row['id'] .'" class="mr-3" title="View Record" data-toggle="tooltip"><span class="fa fa-eye"></span></a>';
+                                            echo '<a href="update.php?id='. $row['id'] .'" class="mr-3" title="Update Record" data-toggle="tooltip"><span class="fa fa-pencil"></span></a>';
+                                            echo '<a href="delete.php?id='. $row['id'] .'" title="Delete Record" data-toggle="tooltip"><span class="fa fa-trash"></span></a>';
+                                        echo "</td>";
+                                    echo "</tr>";
+                                }
+                                echo "</tbody>";                            
+                            echo "</table>";
+                            // Free result set
+                            mysqli_free_result($result);
+                        } else{
+                            echo '<div class="alert alert-danger"><em>No records were found.</em></div>';
+                        }
+                    } else{
+                        echo "Oops! Something went wrong. Please try again later.";
+                    }
+ 
+                    // Close connection
+                    mysqli_close($link);
+                    ?>
+                </div>
+            </div>        
+        </div>
+    </div>
 
 </section>
 
-<footer >
+<footer > 
   <h6 class="p-3 bg-dark text-white text-centers footer">@prodesignerworldProduction</h6>
 </footer>
 
