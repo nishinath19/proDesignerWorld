@@ -378,6 +378,48 @@
 
 </section>
 
+
+<!-- <section class="my-5 ">
+  <div class='py-5'>
+    <h2 class="text-center">Contact Us</h2>
+  </div>
+
+  <div class="w-50 m-auto ">
+    <form action='userinfo.php' method='post'>
+      <div class='form-group'>
+        <ladel> Username </ladel>
+        <input type="text" name="user" class='form-control' autocomplete="off">
+
+      </div>
+
+      <div class='form-group'>
+        <ladel> E-mail </ladel>
+        <input type="text" name="email" class='form-control' autocomplete="off">
+
+      </div>
+
+      <div class='form-group'>
+        <ladel> Mobile </ladel>
+        <input type="text" name="mobile" class='form-control' autocomplete="off">
+
+      </div>
+
+      <div class='form-group'>
+        <ladel> Comments </ladel>
+        <textarea class="form-control" name="comments" autocomplete="off">
+
+        </textarea>
+
+      </div>
+
+      <button type="submit" class="btn btn-success"> Submit </button>
+
+    </form>
+  </div>
+
+
+</section> -->
+
 <footer > 
   <h6 class="p-3 bg-dark text-white text-centers footer">@prodesignerworldProduction</h6>
 </footer>
