@@ -134,7 +134,7 @@
     
     <section class="my-5 ">
         <div class='py-5'>
-            <h2 class="text-center">Our Servicess</h2>
+            <h2 class="text-center">Our Services</h2>
         </div>
         <div class='container-fluid'>
 
