@@ -14,6 +14,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
 </head>
 <body>
     
@@ -335,36 +336,30 @@
 
 <footer >
   
-<section>
-  
-  <div class="p-3 bg-dark bg-opacity-25 text-white text-centers footer">
-    <div class='row'>
-      <div class='col-lg-4 col-md-4 col-12'>
-        <div class='footer_ing'>
-          <img src="images/logo 2.png" alt=""  >
-        </div>
-        
 
-      </div>
-
-      <div class='col-lg-4 col-md-4 col-12 m-5 '>
+<div class="container">
+  <div class="row">
+    <div class="col align-self-start">
+      <img src="images/logo 2.png" alt="" class='w-100px' >
+    </div>
+    <div class="col align-self-center">
         <h3><a href="index.php">Home</a></h3>
         <h3><a href="designs.php">Design</a></h3>
         <h3><a href="about.php">About</a></h3>
         <h3><a href="Contacts.php">Contacts</a></h3>
-        
-      </div>
-
-      <div class='col-lg-4 col-md-4 col-12 m-5'>
-        <a href="index.php">Facebook</a>
-        <a href="index.php">Facebook</a>
-        <a href="index.php">Facebook</a>
-        <a href="index.php">Facebook</a>
-        
-      </div>
+    </div>
+    <div class="col align-self-end ">
+      <h3> <a href="index.php">Facebook</a> </h3>
+      <h3><a href="index.php">Linkedin</a> </h3>
+      <h3><a href="index.php">Behance</a> </h3>
+      <h3><a href="index.php">Youtube</a> </h3>
     </div>
   </div>
-</section>
+</div>
+
+
+
+
   
   <h6 class="p-3 bg-dark text-white text-centers footer">@prodesignerworldProduction</h6>
 </footer>
