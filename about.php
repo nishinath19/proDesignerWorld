@@ -93,7 +93,7 @@
 
                 <div class='col-lg-4 col-md-4 col-12'>
                     <div class="card " > 
-                        <img src="images/pic/Nishinath 5   5(1).jpg" class=" image_col w-auto p-2 " alt="...">
+                        <img src="images/pic/M 01.jpg" class=" image_col w-auto p-2 " alt="...">
                         <div class="card-body">
                             <h2 class="card-title text-center ">Modarak Hossain</h2>
                             <p class="card-text text-center">BA, DICT</p>
